@@ -13,3 +13,6 @@
 # Git pull: esse comando é usado para baixar e buscar conteudo de repositorios e fazer atualizações imediata ao repositorio local.
 
 # Git push: esse comando é usaod para realizar upload do conteudo do repositório local e transferir para um repositório remoto.
+
+
+- [x] atividade completa
