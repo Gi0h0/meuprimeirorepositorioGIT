@@ -6,5 +6,10 @@
 
 # Git commit: ele captura as alterações feitas no projeto.
 
+# Git clone: esse comando é usado para direcionar um repositório existente e clonar... ou seja, tirar uma cópia do repositorio de destinho.
 
+# Git fatch: o comando baixa commits, arquivos e referencias de algum repositorio remoto para seu repositorio local.
 
+# Git pull: esse comando é usado para baixar e buscar conteudo de repositorios e fazer atualizações imediata ao repositorio local.
+
+# Git push: esse comando é usaod para realizar upload do conteudo do repositório local e transferir para um repositório remoto.
